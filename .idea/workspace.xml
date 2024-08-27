@@ -4,27 +4,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12e7882-b44e-4e62-a4b0-a7a77610fe61" name="Changes" comment="Streamlit" />
+    <list default="true" id="d12e7882-b44e-4e62-a4b0-a7a77610fe61" name="Changes" comment="Streamlit">
+      <change afterPath="$PROJECT_DIR$/FInal/Data Generation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/Database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/ERD_Database+teamlink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/Teamlink_Lead_Scoring_Notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/User_lead_summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/agent portfolio.twb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/agents.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/crm_interactions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/enhanced_website_interactions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/inspections.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/properties.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleaned_fake.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fake-form data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fake_survey_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feedback_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactions_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kpi.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kpis_with_correct_columns.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/properties_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/property_tags_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suburb_spi_correct_columns.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users_table.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ShivamArora99/Property-Data.git",
+    "accountId": "3d10f0b8-4a7e-4ae6-84e7-d4840778b9d6"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2kdPFNgA19x9RyoP6NCJ71TM4eb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.data.executor": "Run",
+    "Python.fake-form data.executor": "Run",
+    "Python.fake.executor": "Run",
+    "Python.insoection-kpi.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "CSV-Groovy.csv.groovy",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -77,6 +130,9 @@
       <option name="presentableId" value="Default" />
       <updated>1723610375912</updated>
       <workItem from="1723610377287" duration="2636000" />
+      <workItem from="1723613279520" duration="3217000" />
+      <workItem from="1724127490886" duration="18615000" />
+      <workItem from="1724718257795" duration="7818000" />
     </task>
     <task id="LOCAL-00001" summary="Streamlit">
       <option name="closed" value="true" />
@@ -131,7 +187,15 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Streamlit" />
     <option name="LAST_COMMIT_MESSAGE" value="Streamlit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1724129635806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$data.coverage" NAME="data Coverage Results" MODIFIED="1723615947993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$insoection_kpi.coverage" NAME="insoection-kpi Coverage Results" MODIFIED="1724134474971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$fake_form_data.coverage" NAME="fake-form data Coverage Results" MODIFIED="1724133421728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$fake.coverage" NAME="fake Coverage Results" MODIFIED="1723617108176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

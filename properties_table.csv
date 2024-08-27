@@ -1,0 +1,21 @@
+property_id,property_name,location,bedrooms,bathrooms,property_type,lot_size,year_built
+P001,Property 1,Pyrmont,1,2,House,694,1985
+P002,Property 2,Pyrmont,2,1,House,973,1989
+P003,Property 3,Bondi,2,2,Townhouse,223,2019
+P004,Property 4,Glebe,1,1,Townhouse,300,2001
+P005,Property 5,Chatswood,5,2,Apartment,851,1996
+P006,Property 6,Mosman,1,2,House,445,2011
+P007,Property 7,Redfern,5,3,Apartment,297,2014
+P008,Property 8,North Sydney,3,3,Townhouse,926,2009
+P009,Property 9,Parramatta,4,2,Apartment,683,2015
+P010,Property 10,Newtown,5,2,Townhouse,448,2023
+P011,Property 11,Chatswood,2,1,Apartment,424,1988
+P012,Property 12,Coogee,5,3,Apartment,460,1998
+P013,Property 13,North Sydney,5,3,House,224,2000
+P014,Property 14,Newtown,5,1,Townhouse,567,2018
+P015,Property 15,Coogee,4,3,House,880,1981
+P016,Property 16,Waterloo,1,3,Apartment,940,1983
+P017,Property 17,Newtown,1,1,Apartment,959,1993
+P018,Property 18,Surry Hills,1,1,House,397,1996
+P019,Property 19,Parramatta,3,1,Townhouse,913,2002
+P020,Property 20,Marrickville,4,2,House,496,2015
